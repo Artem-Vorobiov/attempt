@@ -1,0 +1,40 @@
+
+
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css";
+
+
+.container {max-width:1170 px;}
+
+.header-site >.container {border-bottom: #4D4F66 1px solid; padding-top: 30px;}
+
+.header-site .nav-horizontal>ul>li>a
+{font-size: 13px; text-transform: uppercase; opacity:.75}
+
+.footer-site  { text-align: center;}
+
+.footer-site .menu {padding: 5px 0px;}
+
+.footer-site .menu-item-114 { width: 36px; height: 36px; border: #fff 2px solid; line-height:36px;}
+
+.footer-site .menu-item-115 {width: 36px; height: 36px; border: #fff 2px solid; line-height:36px;margin: 0 3px; }
+
+.footer-site .menu-item-116 {width: 36px;  height:36px; border: #fff 2px solid; line-height:36px;
+  }
+
+.menu  li { display:inline-block }
+
+menu  li a { display:inline-block; width: 36px height: 36px; border: #fff 2px solid}
+
+.invert.footer-site .section-nav-title {color: #fff; font-size: 1.4rem;}
+
+
+.footer-site .row copyright {padding-bottom: 100px;}
+
+.footer-site .row + .copyright{ margin-left: -800px; margin-right: -800px; ; border-top: none; background: #313454; padding: 10px 0px;}
+         {: #fff 2px solid; text-align:center; padding:}
+
+.footer-site .invert .copyright{ width:10000px;}
+
+
+
+.copyright .column { width:100%; color: # 808080; font-size: 1.4rem;}
